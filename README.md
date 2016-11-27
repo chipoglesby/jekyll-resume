@@ -9,5 +9,3 @@ To customise you just need to fill out the `_config.yml` and the jobs and educat
 You can see a demo of the theme at: [mattcouchman.co.uk/jekyll-resume](http://mattcouchman.co.uk/jekyll-resume)
 
 Feel free to tear apart and rebuild as you wish.
-
-![Screenshot of resume theme](https://github.com/mattcouchman/jekyll-resume/raw/master/img/screen.png)
