@@ -1,3 +1,23 @@
--   title: Online Advertising & Analytics
+-   title: Manager: Online Advertising & Analytics
     company: Group Publishing
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: Automated weekly and monthly reporting using R scripts and docker files for reproducibility. Built Group's first in-house data warehouse from scratch using Google BigQuery and various tools including ETL tools and scripts. Ran and maintained paid advertising campaigns for marketers and developed custom AdWords scripts to decrease cost and increase effiency. Helped build Group's on-going efforts for on site A/B testing across multiple websites, analyzing and reporting results.
+
+-   title: Senior Search Engine Marketing Specialist
+    company: Chumney & Associates
+    description: Managed an online advertising portfolio of over 90 clients with $500,000 in monthly advertising spend. Developed and deployed paid search advertising strategies for car dealerships. Developed and deployed real-time price tracking campaigns for paid search using Google’s Ad Customizer feature.
+
+-   title: Data Analyst & Adwords Specialist
+    company: Fastpivot
+    description: Worked with multiple small businesses to enhance their online advertising efforts in Google AdWords. Also created an automated reporting system using Google Apps Scripts that programmatically pulls data from Adwords & Google Analytics and reports results on a weekly basis.
+
+-   title: Sole Proprietor
+    company: Creative Spark
+    description: Worked as a consultant to small businesses for building online advertising campaigns and reporting website analysis for both for-profit and non-profit businesses. Ran and maintained Wordpress websites and Google Apps for small businesses as well.
+
+-   title: Communications Assistant
+    company: South Carolina Policy Council
+    description: Website manager for three sperate websites. Used Google Analytics to increase online giving by 50% through on-site optimization and email campaigns. Built new media strategies for Facebook, Twitter and Youtube acocunts. Shot and produced regular videos for our Youtube account.
+
+-   title: Online Producer
+    company: The State Media Company
+    description: Assisted in the 2008 redesign of thestate.com and produced content for News, Metro & Sports sections. Online producer for @thestate twitter account and other social media outlets.
