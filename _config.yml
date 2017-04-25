@@ -7,7 +7,7 @@ description: The online resume for Chip Oglesby.
 baseurl: "http://www.chipoglesby.com/resume"
 url: ""
 name: Chip Oglesby 
-job: Data Analyst
+job: Data Scientist
 location: Fort Collins, CO
 languages: R, git & Bash         
 twitter_username: chipoglesby 
